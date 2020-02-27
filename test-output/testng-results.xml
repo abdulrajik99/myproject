@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111" started-at="2020-01-31T06:11:01Z" finished-at="2020-01-31T06:11:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="111" started-at="2020-01-31T06:11:01Z" finished-at="2020-01-31T06:11:01Z">
+      <class name="com.testng.OrderofTestNg">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="setup" is-config="true" duration-ms="22" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Beftest()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="Beftest" is-config="true" duration-ms="0" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beftest -->
+        <test-method status="PASS" signature="startmethod()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="startmethod" is-config="true" duration-ms="3" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startmethod -->
+        <test-method status="PASS" signature="mainnn()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="mainnn" duration-ms="14" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainnn -->
+        <test-method status="PASS" signature="closingstartmethod()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="closingstartmethod" is-config="true" duration-ms="1" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingstartmethod -->
+        <test-method status="PASS" signature="startmethod()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="startmethod" is-config="true" duration-ms="1" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startmethod -->
+        <test-method status="PASS" signature="man2()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="man2" duration-ms="4" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- man2 -->
+        <test-method status="PASS" signature="closingstartmethod()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="closingstartmethod" is-config="true" duration-ms="0" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingstartmethod -->
+        <test-method status="PASS" signature="closingclass()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="closingclass" is-config="true" duration-ms="12" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingclass -->
+        <test-method status="PASS" signature="closingBeftest()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="closingBeftest" is-config="true" duration-ms="1" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBeftest -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testng.OrderofTestNg@491666ad]" name="closesetup" is-config="true" duration-ms="0" started-at="2020-01-31T11:41:01Z" finished-at="2020-01-31T11:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+      </class> <!-- com.testng.OrderofTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
